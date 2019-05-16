@@ -1,0 +1,41 @@
+body{background:url(../images/bg.png) repeat-x #FFF; padding:0; margin:0; font-family:Arial;}
+.clearboth{clear:both}
+.floatleft{float:left}
+.main-container{width:900px; margin: 0 auto}
+.top-menu{float:right; padding-top:5px}
+.top-menu img{float:left; padding-right:5px}
+.top-menu a{float:left; padding:10px 5px 0 0; font-size:12px; font-weight:bold; color:#333333; text-decoration:none}
+.top-menu a:hover{text-decoration:underline}
+.logo-container{}
+.LogoTextContainer{float:left; width:auto; padding-top:7px}
+.hpLogo{float:left; padding-right:5px}
+.logo-container span {float:left; clear:both; font-size:12px; letter-spacing:1px;font-weight:bold}
+.fullwidth{width:100%}
+.content-container{width:100%; clear:both; height:auto; padding-top:20px}
+.tab-container{float:left; margin:3px 0 0 0px; width:auto;padding-top:3px}
+.tab-container ul {padding:0; margin:0; list-style:none}
+.tab-container li.over {float:left; width:157px; height:35px; background:url(../images/tab-over.gif) no-repeat}
+.tab-container li.normal {float:left; width:149px; height:32px; background:url(../images/tab.gif) no-repeat; margin-top:3px;}
+.tabover-link{float:left; text-align:center; margin-top:10px; width:100%; font-weight:bold; color: #eeeeee; font-size: 14px;text-decoration:none}
+.tabnormal-link{float:left; text-align:center; margin-top:10px; width:100%; font-weight:bold; color: #537cc4; font-size: 14px;text-decoration:none}
+a.tabnormal-link:hover{color:#7890d8}
+.maincontent-container{float:left; width:100%}
+.topborder{width:900px; height:16px; background:url(../images/roundborder-top.gif) no-repeat}
+.border-pxl{width:900px; height:auto; background:url(../images/roundborder-pxl.gif) repeat-y; margin-top:-3px;float:left;padding-bottom:15px;}
+.bottomborder{width:900px; height:16px; background:url(../images/roundborder-bottom.gif) no-repeat; margin-top:-3px;float:left}
+.form-container{width:720px; margin:0 auto; padding-top:30px; padding-bottom:20px;height:auto}
+.search-container{float:left; width:100%; height:auto;margin-bottom:35px;}
+.search-container img{float:left; margin-right:4px}
+.search-container span.textbox-container{float:left; width:605px; height:52px; background:url(../images/searchbox.gif); margin-right:5px}
+.search-container input.textboxstyle{float:left; border:none; background:none; margin:15px 15px 15px 15px; color:#999999;font-size:14px; width:500px}
+.search-container span.button-container{float:left; width:58px; height:49px; background:url(../images/blue-button.gif)}
+.search-container input.searchbutton{float:left; border:none; background:none; margin:15px 0px 0px 0px; color:#d2d2d2;font-size:12px; width:58px}
+.form-left{float:left; width:350px; margin-right:10px;height:auto}
+.form-row{float:left; width:100%; margin-bottom:0px}
+.form-row img{float:left; margin-right:5px}
+.form-row label{float:left; margin-top:8px; font-size:12px; font-weight:bold; color:#424242; width:90px}
+.form-row input.textstyle{float:left; margin-top:8px;width:200px; border:1px solid #e6e6e6}
+.form-row input.checkboxstyle{float:left; margin-top:8px;}
+.form-right{float:right; width:340px;height:auto}
+.startbutton{float:right; width:100px; height:38px; background:url(../images/start-button.gif) no-repeat; border:0;margin-top:20px;margin-right:10px}	
+.footer{float:left;font-size:12px; color:#777777; width:100%; text-align:center;margin-top:10px;margin-bottom:10px}
